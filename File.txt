@@ -2,9 +2,20 @@ This is my first GIT.......Welcome to GIT singham.....!!
 
 class HelloGit
 {
+<<<<<<< HEAD
 	public static void main(String [] args)
 	{
 		System.out.println.("Hello");
 		System.out.println.("HelloGIT");
+=======
+	helloGit()	
+	{	
+		Syso("HelloGIT...welcome");
+	}
+	public static void main(String [] args)
+	{
+		HelloGit onj=new HeslloGit();
+		obj.helloGit()
+>>>>>>> bug123
 	}
 }
