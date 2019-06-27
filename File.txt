@@ -18,4 +18,11 @@ class HelloGit
 		obj.helloGit()
 >>>>>>> bug123
 	}
+	
+
+	void myBigMethod()
+	{
+	syso("has method implementation");
+	}
 }
+
