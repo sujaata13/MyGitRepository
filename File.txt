@@ -8,6 +8,7 @@ class HelloGit
 	}
 	public static void main(String [] args)
 	{
-		
+		HelloGit onj=new HeslloGit();
+		obj.helloGit()
 	}
 }
